@@ -1,0 +1,8 @@
+{
+  "name": "snowdenDemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jxxuxuefeng/js.git",
+  "author": "jxxuxuefeng <jxxuxuefeng@qq.com>",
+  "license": "MIT"
+}
